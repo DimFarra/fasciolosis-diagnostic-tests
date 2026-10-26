@@ -1,0 +1,4 @@
+1000 independent probability identity tests passed.
+Every checked posterior draw has valid conditional cell probabilities and the stated class orientation.
+Herd Jacobian numerical rank at generic interior point: 7 of 9.
+

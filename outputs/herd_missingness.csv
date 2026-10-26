@@ -1,0 +1,24 @@
+ethnicity,species,missing,Freq
+Arab,caprine,Both tests,0
+Gorane,caprine,Both tests,0
+Arab,ovine,Both tests,0
+Gorane,ovine,Both tests,0
+Peul,ovine,Both tests,0
+Arab,caprine,Complete,41
+Gorane,caprine,Complete,12
+Peul,caprine,Complete,57
+Arab,ovine,Complete,35
+Gorane,ovine,Complete,11
+Peul,ovine,Complete,61
+Arab,caprine,Coprology only,2
+Gorane,caprine,Coprology only,4
+Peul,caprine,Coprology only,2
+Arab,ovine,Coprology only,4
+Gorane,ovine,Coprology only,0
+Peul,ovine,Coprology only,1
+Arab,caprine,ELISA only,4
+Gorane,caprine,ELISA only,0
+Peul,caprine,ELISA only,3
+Arab,ovine,ELISA only,0
+Gorane,ovine,ELISA only,0
+Peul,ovine,ELISA only,3

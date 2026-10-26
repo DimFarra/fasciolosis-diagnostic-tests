@@ -1,0 +1,8 @@
+"ethnicity","species","age.n","age.median","age.min","age.max"
+"Arab","caprine",41.0, 4.0, 1.5,10.0
+"Gorane","caprine",12.0, 6.0, 2.0, 8.0
+"Peul","caprine",56.0, 4.0, 1.0, 8.0
+"Arab","ovine",35.0, 5.0, 1.0,17.0
+"Gorane","ovine",11.0, 4.0, 2.0, 8.0
+"Peul","ovine",61.0, 4.0, 1.0, 7.0
+
